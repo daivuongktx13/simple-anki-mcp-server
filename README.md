@@ -14,6 +14,12 @@
 
 ## Run and Visualize
 
+### Enviroment Setup
+I use `uv`, a very fast Python package manager.
+```
+uv sync
+```
+
 ### 🔍 MCP Inspector
 We can inspect the MCP Server at dev environment using:
 ```
